@@ -2,3 +2,4 @@
 -mempraktekan pembuatan akun github
 -mempraktekan pembuatan file di github
 -mempelajari istilah istilah di github
+-mengerjakan tugas github
