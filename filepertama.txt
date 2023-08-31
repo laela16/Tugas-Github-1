@@ -1,0 +1,3 @@
+-materi hari ini mempelajari mengenai github
+-mempraktekan pembuatan akun github
+-mempraktekan pembuatan file di github
